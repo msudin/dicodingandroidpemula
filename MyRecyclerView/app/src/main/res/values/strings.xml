@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApplication</string>
+    <string name="heroes_name">Nama Pahlawan</string>
+    <string name="from">Asal</string>
+    <string name="favorite">favorite</string>
+    <string name="share">share</string>
+</resources>
